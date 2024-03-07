@@ -1,0 +1,72 @@
+header{
+    
+    background-color: #776969;
+    left: 0;
+    top: 0;
+    width: 100%;
+    text-align: center;
+}
+
+main{
+    text-align: center;
+}
+footer{
+    background-color: #9d9d9d;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: left;
+    padding-left: 30px;
+
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 10px;
+    text-align: left;
+    font-weight: lighter;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    color: #8E8080;
+    padding-left: 10px;
+    text-align: left;
+}
+
+.cafes{
+    text-align: center;
+}
+
+.cafe-container{
+    margin: 30px; 
+    background-color: #9d9d9d;
+    padding-top: 17.5px;
+    width: 175px;
+    height: 270px;
+}
+
+.logo{
+    width: 105px;
+    height: 114px;
+}
+
+.search-container{
+    margin: 10px;
+}
+
+.first-photo{
+    width: 140px;
+    height: 140px;
+}
+.sort{
+    margin: 10px;
+}
+.line {
+    position: absolute;
+    left: 0;
+    width: 100%;
+    height: 1px;
+    background-color: black; 
+  }
